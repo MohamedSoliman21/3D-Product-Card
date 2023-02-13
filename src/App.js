@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { Suspense } from 'react';
 import { Canvas } from '@react-three/fiber';
